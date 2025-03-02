@@ -1,3 +1,7 @@
+Sentiment analysis on azure https://learn.microsoft.com/en-us/legal/cognitive-services/language-service/transparency-note-sentiment-analysis#:~:text=The%20model%20may,and%20the%20audience.
+
+The model may not recognize sarcasm. Context, like tone of voice, facial expression, the author of the text, the audience for the text, or prior conversation are often important to understanding the sentiment. With sarcasm, additional context is often needed to recognize if a text input is positive or negative. Given that the service only sees the text input, classifying sarcastic sentiment may be less accurate. For example, that was awesome, could be either positive or negative depending on the context, tone of voice, facial expression, author and the audience.
+
 # Sarcasm Detection in Speech: Tools and Techniques
 
 ## Prosodic Cues and Context in Sarcasm
